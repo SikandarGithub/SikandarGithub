@@ -34,7 +34,7 @@
  
  On Upwork I have completed 100+ jobs and got Top rated Badge. 
 
- On Fiverr I have completed 50+ jobs and got Level 2 Seller Badge. 
+ On Fiverr I have completed 150+ jobs and got Level 2 Seller Badge. 
  
  👉You’re just a click away from accomplishing your Goal! ⤵️
  
