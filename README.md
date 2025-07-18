@@ -1,46 +1,40 @@
-- 👋 Hi, I’m Sikandar Hayat(Software Engineer).
-        
-- 👀 I’m interested in Data Analysis / Data Extraction / Web Scraping
+# 👋 Hi there, I'm Sikandar Hayat — Software Engineer & Full-Time Freelancer
 
-- 📫 My Skype & What'sApp : +923149731146
+🎯 I specialize in **Data Analysis**, **Web Scraping**, and **Automation**.
 
- Full Time Freelancer On Upwork and Fiverr since 2k18.
+💼 Working full-time on **Upwork** and **Fiverr** since **2018**, I’ve successfully completed:
+- ✅ 200+ projects on **Upwork** – *Top Rated Badge*
+- ✅ 200+ projects on **Fiverr** – *Level 2 Seller*
 
- My services are:⤵️
- 
- ✅ Web Scraping
- ✅ Web Automation
- ✅ MS Excel Automation
- ✅ Excel Formula
- ✅ Data Analysis
- ✅ Pivot Table
- ✅ Data Extraction
- ✅ Desktop Automation
- ✅ Regex
- ✅ SQL Queries and Much More...
+---
 
+## 💡 Services I Offer
 
- My Skills are:⤵️
- ✅ Python
- ✅ Scrapy
- ✅ Selenium
- ✅ Regex
- ✅ VBA
- ✅ Node JS
- ✅ Request_html
- ✅ Beautiful Soup
- ✅ Playwright
- ✅ Requests
- 
- On Upwork I have completed 100+ jobs and got Top rated Badge. 
+- 🔍 Web Scraping & Data Extraction  
+- 🤖 Web & Desktop Automation  
+- 📊 Data Analysis & Reporting  
+- 📈 MS Excel Automation (Formulas, Pivot Tables, Macros)  
+- 🔄 Regex & Pattern Matching  
+- 🧮 SQL Queries  
+- 🧰 And much more...
 
- On Fiverr I have completed 150+ jobs and got Level 2 Seller Badge. 
- 
- 👉You’re just a click away from accomplishing your Goal! ⤵️
- 
- Upwork: https://www.upwork.com/freelancers/~01d8e56b3569442353
+---
 
-<!---
-SikandarGithub/SikandarGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ My Technical Skills
+
+- 🐍 Python (Scrapy, Selenium, Playwright, BeautifulSoup, Requests, request_html)  
+- 🟨 Node.js  
+- 📄 Regex  
+- 📊 VBA (Excel Macros)  
+- 🧠 SQL  
+
+---
+
+## 📲 Let's Connect!
+
+- 💬 Skype & WhatsApp: **+92 314 9731146**
+- 🌐 [Upwork Profile](https://www.upwork.com/freelancers/~01d8e56b3569442353)
+
+---
+
+🚀 *You're just one click away from getting your task done — professionally, efficiently, and on time!*
