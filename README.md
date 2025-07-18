@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sikandar Hayat — Software Engineer & Full-Time Freelancer
 
-🎯 I specialize in **Data Analysis**, **Web Scraping**, and **Automation**.
+🎯 I specialize in **Data Processing**, **Web Scraping**, and **Automation**.
 
 💼 Working full-time on **Upwork** and **Fiverr** since **2018**, I’ve successfully completed:
 - ✅ 200+ projects on **Upwork** – *Top Rated Badge*
